@@ -26,5 +26,4 @@ Perform Exploratory Data Analysis (EDA) on the Iris Dataset to understand data p
 - Setosa species is clearly distinguishable.
 - Petal features are more useful than sepal features for classification.
 
-## Conclusion
-EDA helped identify patterns, correlations, and feature importance within the Iris dataset.# Task-3-EDA-Iris
+
